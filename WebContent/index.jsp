@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-   <h1>Amazon.in is at Bay Area</h1>
+   <h1>Amazon.com is at Bay Area..Stay Relentless</h1>
 </body>
 </html>
