@@ -8,5 +8,6 @@
 </head>
 <body>
    <h1>Amazon.com is at Bay Area..Stay Relentless</h1>
+     Phoenix rollout is planned on 12 Feb
 </body>
 </html>
